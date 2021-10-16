@@ -44,7 +44,7 @@ for (var i = 0; i < data.length; i++) {
     data[data[i].person].name +
     ". Su mail es: " +
     data[data[i].person].email +
-    "<br> La idea es gastar _________  Es una buena oportunidad para bancar a tu amigx emprendedor! Por supuesto que valen regalos artesanales. Te dejo unas ideas de lo que podes regalarle, pero sentite libre de inventar si se te ocurre algo divertido! ¿A quien no le gustan las sorpresas?" +
+    "<br> La idea es gastar _________  Es una buena oportunidad para bancar a tu amigx emprendedor! También valen regalos artesanales. Te dejo unas ideas de lo que podes regalarle, pero sentite libre de inventar si se te ocurre algo divertido! ¿A quién no le gustan las sorpresas?" +
     ".<br> En sus palabras le gustaría recibir: " +
     data[data[i].person].options +
     ".<br> Si es algo físico, sus indicaciones de entrega son: " +
